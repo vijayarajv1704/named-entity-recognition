@@ -186,6 +186,9 @@ Reg no: 212222230174
 
 ![image](https://github.com/vijayarajv1704/named-entity-recognition/assets/121303741/a08e6a94-cd73-418e-87ac-60e0c97b396d)
 
+![image](https://github.com/vijayarajv1704/named-entity-recognition/assets/121303741/d9d32b98-7a23-479b-b660-67fd2be44b66)
+
+
 
 Include your plot here
 
